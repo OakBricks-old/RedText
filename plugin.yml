@@ -1,0 +1,10 @@
+name: RedText
+version: 1.0.1
+main: org.oakbricks.redtext.Main
+api-version: 1.13
+authors: [OakBricks]
+description: Turns messages that start with ! red.
+permissions:
+  redtext.use:
+    description: Granted by default. Enables the usage of greentext for players with this permission.
+    default: true
